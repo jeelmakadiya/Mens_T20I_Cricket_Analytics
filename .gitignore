@@ -1,9 +1,6 @@
-# Raw ball-by-ball export is 130.8 MB — exceeds GitHub's 100 MB per-file limit.
+# Raw ball-by-ball export is 130.8 MB - exceeds GitHub's 100 MB per-file limit.
 Dataset_Files/ball_by_ball_t20_men.csv
 
 # Vercel
-.vercel
-.env*
-
 .vercel
 .env*
