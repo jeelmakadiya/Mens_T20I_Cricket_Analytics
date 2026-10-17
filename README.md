@@ -2,6 +2,8 @@
 
 Team and match performance analysis built from **ball-by-ball** records of Men's T20 Internationals, spanning **2005–2026**.
 
+**Live dashboard:** https://mens-t20i-cricket-analytics.vercel.app
+
 ## At a glance
 
 | Metric | Value |
